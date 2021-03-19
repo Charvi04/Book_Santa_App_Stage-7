@@ -1,2 +1,4 @@
 # Book_Santa_App_Stage-7
-This is a Book Santa App where first you have to sign up in the app. Then you can exchange some book which someone needs. But it is not ready till now.
+This is a Book Santa App in which the users can search for any book they wish to have with them, and if any user of the app will be having the book, then that user can send the book to the requester.
+
+
